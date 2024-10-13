@@ -1,0 +1,1 @@
+# C-program-to-enter-a-decimal-number-and-calculate-and-display-the-binary-equivalent-
